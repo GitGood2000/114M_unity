@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5d0e3ad7af572334991b096b83c2bb26
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Sphere: {fileID: 9044486943963926944, guid: ef1274e5ccc274047a3c706ee18ed95a, type: 3}
+  - audioSource: {fileID: 1716863223307969792, guid: ef1274e5ccc274047a3c706ee18ed95a, type: 3}
+  - clip: {fileID: 8300000, guid: 3e00738031282b349a3efb297e43dece, type: 3}
+  - meshRenderer: {fileID: 5689953672587842741, guid: ef1274e5ccc274047a3c706ee18ed95a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
