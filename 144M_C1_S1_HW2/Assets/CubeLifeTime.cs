@@ -43,7 +43,7 @@ public class CubeLifeTime : MonoBehaviour
 
 	void Destruction()
 	{
-		audioSource.PlayOneShot(clip, volume);
+		AudioSource.PlayClipAtPoint(clip, Camera.main.transform.position);
 		Destroy(this.gameObject);
 	}
 }

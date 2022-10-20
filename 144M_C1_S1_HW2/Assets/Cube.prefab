@@ -128,7 +128,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c303dba2f073d5f468cc9c6dc0c9c9e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 7655730054890814675, guid: 0e39ca57481d4344084636ed4a8ab298, type: 3}
+  audioSource: {fileID: 2356911790174600810}
   clip: {fileID: 8300000, guid: d2d847cbe28229e4aa0b4b1eb04777c6, type: 3}
   volume: 1
   lifeTime: 10
